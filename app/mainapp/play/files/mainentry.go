@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	distributefilesystem "github.com/dataplane-app/dataplane/mainapp/code_editor/distribute_filesystem"
-	dpconfig "github.com/dataplane-app/dataplane/mainapp/config"
-	"github.com/dataplane-app/dataplane/mainapp/database"
+	distributefilesystem "github.com/saul-data/dataplane/app/mainapp/code_editor/distribute_filesystem"
+	dpconfig "github.com/saul-data/dataplane/app/mainapp/config"
+	"github.com/saul-data/dataplane/app/mainapp/database"
 )
 
 func main() {

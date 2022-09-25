@@ -5,7 +5,7 @@ package publicgraphql
 import (
 	"bytes"
 	"context"
-	"github.com/dataplane-app/dataplane/mainapp/database/models"
+	"github.com/saul-data/dataplane/app/mainapp/database/models"
 	"errors"
 	"strconv"
 	"sync"

@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dataplane-app/dataplane/mainapp/database/models"
+	"github.com/saul-data/dataplane/app/mainapp/database/models"
 
-	"github.com/dataplane-app/dataplane/workers/cmetric"
-	wrkerconfig "github.com/dataplane-app/dataplane/workers/config"
-	"github.com/dataplane-app/dataplane/workers/logging"
-	"github.com/dataplane-app/dataplane/workers/messageq"
+	"github.com/saul-data/dataplane/app/workers/cmetric"
+	wrkerconfig "github.com/saul-data/dataplane/app/workers/config"
+	"github.com/saul-data/dataplane/app/workers/logging"
+	"github.com/saul-data/dataplane/app/workers/messageq"
 
 	"github.com/go-co-op/gocron"
 	"github.com/shirou/gopsutil/cpu"

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dataplane-app/dataplane/mainapp/logging"
+	"github.com/saul-data/dataplane/app/mainapp/logging"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

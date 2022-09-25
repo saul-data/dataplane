@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	dpconfig "github.com/dataplane-app/dataplane/mainapp/config"
-	"github.com/dataplane-app/dataplane/mainapp/database"
-	"github.com/dataplane-app/dataplane/mainapp/database/models"
-	"github.com/dataplane-app/dataplane/mainapp/logme"
+	dpconfig "github.com/saul-data/dataplane/app/mainapp/config"
+	"github.com/saul-data/dataplane/app/mainapp/database"
+	"github.com/saul-data/dataplane/app/mainapp/database/models"
+	"github.com/saul-data/dataplane/app/mainapp/logme"
 
 	"github.com/golang-jwt/jwt/v4"
 	uuid2 "github.com/google/uuid"

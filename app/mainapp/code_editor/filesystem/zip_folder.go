@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	dpconfig "github.com/dataplane-app/dataplane/mainapp/config"
+	dpconfig "github.com/saul-data/dataplane/app/mainapp/config"
 )
 
 // Source https://gosamples.dev/zip-file/

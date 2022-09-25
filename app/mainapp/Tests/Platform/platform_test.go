@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dataplane-app/dataplane/mainapp/Tests/testutils"
-	"github.com/dataplane-app/dataplane/mainapp/database"
+	"github.com/saul-data/dataplane/app/mainapp/Tests/testutils"
+	"github.com/saul-data/dataplane/app/mainapp/database"
 
 	"github.com/bxcodec/faker/v3"
 

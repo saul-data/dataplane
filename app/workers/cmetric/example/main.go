@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dataplane-app/dataplane/workers/cmetric"
+	"github.com/saul-data/dataplane/app/workers/cmetric"
 )
 
 func main() {
